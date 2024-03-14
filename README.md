@@ -1,0 +1,1 @@
+This is my first Project in 2nd semester of my college. This project is build in python and SQL language. This project has many features like Search menu, Report menu, Item list, Search customer information, Amount collected, Sell between two dates, Bill information, Modify item, Add item, Find item, ...etc.
